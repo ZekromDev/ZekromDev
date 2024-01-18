@@ -6,7 +6,7 @@ Hi 😇
 
 My framework
 
-[![ My framework](https://skillicons.dev/icons?i=bootstrap,react,jquery&perline=3)](https://skillicons.dev)
+[![ My framework](https://skillicons.dev/icons?i=bootstrap,react,jquery,nodejs&perline=4)](https://skillicons.dev)
 
 My stats 
 
