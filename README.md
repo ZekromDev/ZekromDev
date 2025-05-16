@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Exploring+Code+and+Vulnerabilities;Full+Stack+%E2%9A%94%EF%B8%8FPentesting+Mindset;OSINT+is+Power" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Exploring+Code+and+Vulnerabilities;Full+Stack+%E2%9A%94%EF%B8%8FPentesting+Mindset;OSINT+is+Power" />
 </p>
 
 ---
@@ -13,11 +13,11 @@
 
 > *"Je pense être quelqu'un d'extrêmement patient et volontaire."*
 
-- 👾 Développeur passionné par le **code propre**, la **cybersécurité** et la **curiosité technique**
-- 🕶️ Pentesteur web avec un amour particulier pour **l'OSINT**, les failles logiques et la discrétion
-- 🛠️ Stack orientée **JavaScript, Python, Linux, Docker, et plus**
-- 🔐 Axé sur la **sécurité by design** et la **recherche de vulnérabilités**
-- 🌀 Anciennement connu sous le nom de **Zekrom**
+- 👾 Passionné par le **développement** et la **cybersécurité** avec une expertise particulière en **OSINT** et **pentesting** web.
+- 🕶️ Anciennement connu sous le nom de **Zekrom**, je suis désormais **Specter7z** : l'ombre dans le cyberespace.
+- 🔐 Ma mission : allier **protection**, **automatisation** et **innovation** pour une sécurité sans compromis.
+- 🛠️ Stack orientée **JavaScript**, **Python**, **Linux**, **Docker**, et **outils de pentesting**.
+- 🔍 Toujours à la recherche de **failles logiques**, de **vulnérabilités** et de **solutions automatisées** pour renforcer la sécurité.
 
 ---
 
@@ -36,10 +36,10 @@
 
 ## 🔍 Focus
 
-- 🌐 **OSINT** / Analyse de surface d’attaque
-- 🕸️ **Pentesting Web** / Recherche de vulnérabilités logiques
-- 🔄 **Automatisation** / Scripts sur mesure pour dev & sec
-- 💡 **Création de projets sécurisés** en full-stack (Front+API+Auth)
+- 🌐 **OSINT** : Exploration et analyse approfondie des surfaces d’attaque.
+- 🕸️ **Pentesting Web** : Recherche de vulnérabilités logiques pour renforcer les architectures web.
+- 🔄 **Automatisation** : Scripts et outils personnalisés pour optimiser la sécurité.
+- 💡 **Création de projets sécurisés** : Full-stack avec une attention particulière à la **sécurité** dès la conception.
 
 ---
 
@@ -55,8 +55,10 @@
 
 ## 🧭 Me suivre dans l'ombre
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/csint0x)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Specter7z)
+<p align="center">
+  <a href="https://t.me/csint0x" target="_blank"><img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://github.com/Specter7z" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
