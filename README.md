@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Zekrom ⚡</h1>
+<h1 align="center">⚡ Specter7z ⚡</h1>
 <p align="center">
   <em>Développeur Full Stack & Pentesteur Web</em> • <strong>@osintly</strong>
 </p>
@@ -17,6 +17,7 @@
 - 🕶️ Pentesteur web avec un amour particulier pour **l'OSINT**, les failles logiques et la discrétion
 - 🛠️ Stack orientée **JavaScript, Python, Linux, Docker, et plus**
 - 🔐 Axé sur la **sécurité by design** et la **recherche de vulnérabilités**
+- 🌀 Anciennement connu sous le nom de **Zekrom**
 
 ---
 
@@ -45,9 +46,9 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZekromDev&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Specter7z&theme=tokyonight&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekromDev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Specter7z&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,7 +56,7 @@
 ## 🧭 Me suivre dans l'ombre
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/csint0x)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/osintly)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Specter7z)
 
 ---
 
