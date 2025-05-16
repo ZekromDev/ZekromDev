@@ -45,7 +45,7 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osintly&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZekromDev&theme=tokyonight&show_icons=true&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekromDev&theme=tokyonight&hide_border=true" />
 </p>
