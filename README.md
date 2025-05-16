@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Specter7z ⚡</h1>
 <p align="center">
-  <em>Développeur Full Stack & Pentesteur Web</em> • <strong>@osintly</strong>
+  <em>Développeur Full Stack & Pentesteur Web</em> • <strong>@specter7z</strong>
 </p>
 
 <p align="center">
